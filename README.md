@@ -12,6 +12,9 @@ connect clickhouse server over ssh tunnel.
 
 ## Usage
 Don't forget to `close()` the tunnel connection when you're done with clickhouse.
+```
+npm install clickhouse-ssh
+```
 
 ```javascript
 
