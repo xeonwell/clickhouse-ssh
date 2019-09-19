@@ -1,0 +1,24 @@
+{
+  "name": "clickhouse-ssh",
+  "version": "1.0.0",
+  "description": "connect clickhouse over ssh tunnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@apla/clickhouse": "latest",
+    "ssh2": "latest"
+  },
+  "keywords": ["clickhouse", "ssh"],
+  "author": "xeonwell",
+  "license": "ISC",
+  "homepage": "https://github.com/xeonwell/clickhouse-ssh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeonwell/clickhouse-ssh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xeonwell/clickhouse-ssh/issues"
+  }
+}
